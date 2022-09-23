@@ -1,0 +1,66 @@
+html,
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  background-color: #f1f1f1;
+  color: #333333;
+}
+
+.container {
+  margin: 80px auto 0 auto;
+}
+.center {
+  display: flex;
+  justify-content: space-between;
+}
+.form {
+  align-items: center;
+  text-align: center;
+  max-width: 600px;
+}
+.toolbar {
+  max-width: 1200px;
+}
+.panel {
+  margin: auto;
+  max-width: 1200px;
+  text-align: center;
+  vertical-align: middle;
+  align-items: center;
+}
+.homepage {
+  margin: auto;
+
+  max-width: 1200px;
+}
+.homepage.one {
+  min-height: 600px;
+}
+.homepage.two {
+  min-height: 350px;
+}
+.homepage2 {
+  align-items: center;
+  min-height: 200px;
+  background-color: #fafafa;
+
+  border-spacing: 0;
+  width: 100%;
+}
+.imgholder {
+  max-height: 150px;
+  max-width: 225px;
+}
+.paper {
+  margin: 25px auto 35px auto;
+}
+.paper2 {
+  width: 1000px;
+}
+
+.quiz {
+  min-height: 600px;
+  align-items: center;
+  text-align: center;
+}
